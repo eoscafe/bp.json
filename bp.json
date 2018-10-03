@@ -4,7 +4,7 @@
     "candidate_name": "EOS Cafe Block",
     "website": "https://eoscafeblock.com",
     "code_of_conduct":"https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting",
-    "email":"syedjafri@eoscalgary.io",
+    "email":"syed@eoscafeblock.com",
     "ownership_disclosure":"https://github.com/eoscafe/ownership-disclosure",
     "branding":{
       "logo_256":"https://eoscafecalgary.com/cafe_logo_256.png",
@@ -19,14 +19,14 @@
     },
     "social": {
       "steemit": "eoscafeblock",
-      "twitter": "eoscafecalgary",
+      "twitter": "eoscafeblock",
       "youtube": "eoscafecalgary",
-      "facebook": "",
-      "github":"eoscafe",
       "reddit": "eoscafeblock",
-      "keybase": "eoscalgary",
       "telegram": "eoscafeblock",
-      "wechat":"wxid_st7mrsz0e1c522"
+      "github":"eoscafe",
+      "keybase": "eoscalgary",
+      "wechat":"wxid_st7mrsz0e1c522",
+      "facebook": ""
     }
   },
   "nodes": [
